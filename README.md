@@ -1,2 +1,3 @@
 ## Live Deployment Link:
-https://vipervortex1.onrender.com/
+### Render : https://vipervortex1.onrender.com/
+### Vercel : https://viper-vortex-himanshu.vercel.app/
